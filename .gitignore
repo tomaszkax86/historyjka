@@ -1,4 +1,4 @@
 # .gitignore
-*.swp
 README
 .README.swp
+*.swp
